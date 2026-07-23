@@ -1,6 +1,3 @@
-
-# 💫 About Me:
-
 ![desk setup gif](https://github.com/user-attachments/assets/6b837973-197d-4f1d-b7cb-d2b50b634441)
 
 <h1 align="center">
@@ -19,37 +16,19 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const sajal = {
-    location: "India 🇮🇳",
-    education: "B.Tech CSE (AI & ML)",
-    role: "Full Stack Developer",
-
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "System Design",
-        "Docker"
-    ],
-
-    interests: [
-        "Backend Development",
-        "Cloud Computing",
+class Sajal {
+public:
+    string education = "B.Tech CSE-AIML @ KIET";
+    string interests[] = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Robotics",
         "Blockchain",
-        "Artificial Intelligence"
-    ],
+        "Cloud Computing"
+    };
 
-    currentlyBuilding: [
-        "MediChain",
-        "Healthcare Applications",
-        "Open Source Projects"
-    ],
-
-    motto: "Code. Learn. Build. Repeat."
-}
-```
-
+    string motto = "Code • Build • Innovate";
+};
 ---
 
 > *"I don't just write code—I build solutions that make an impact."* 🚀
@@ -214,7 +193,16 @@ A platform connecting skilled workers with employers through an easy-to-use digi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-vaish-29a694381)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishsajal82)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vaishsajal82@gmail.com)
+<a href="mailto:vaishsajal82@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/_.sajal._11/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/aqua_0711">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 
 ---
 
