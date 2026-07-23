@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+```cpp
 class Sajal {
 public:
     string education = "B.Tech CSE-AIML @ KIET";
@@ -29,6 +29,8 @@ public:
 
     string motto = "Code • Build • Innovate";
 };
+```
+
 ---
 
 > *"I don't just write code—I build solutions that make an impact."* 🚀
