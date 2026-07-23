@@ -73,5 +73,6 @@ A platform connecting skilled workers with employers through an easy-to-use digi
 [![Sajal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishsajal82&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 ### ⭐ Thanks for visiting my profile!
