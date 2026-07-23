@@ -3,16 +3,56 @@
 
 ![desk setup gif](https://github.com/user-attachments/assets/6b837973-197d-4f1d-b7cb-d2b50b634441)
 
-Hi there! 👋 I'm **Sajal Vaish**, a Full Stack Developer and B.Tech CSE (AI & ML) student passionate about building scalable web applications and solving real-world problems through technology.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sajal+Vaish;Full+Stack+Developer;Backend+Engineer+in+Progress;Building+Projects+that+Solve+Real+Problems;Always+Learning+Something+New" />
+</h1>
 
-I enjoy working across the entire development stack—from crafting intuitive frontend interfaces to designing efficient backend architectures. I'm currently expanding my expertise in **Backend Development, Cloud Computing, Blockchain, and AI-powered applications** while contributing to open-source projects.
+<h3 align="center">
+🚀 Full Stack Developer • AI Enthusiast • AI & Cloud Explorer
+</h3>
 
-- 🚀 Currently learning **Node.js, Express.js, MongoDB & System Design**
-- 🌱 Exploring **Blockchain, Docker, AWS & DevOps**
-- 💻 Love building Full Stack, AI, and Healthcare Tech projects
-- 🤝 Open to collaborating on Open Source & Innovative Projects
-- ⚡ Fun Fact: I believe the best way to learn is by building.
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450">
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const sajal = {
+    location: "India 🇮🇳",
+    education: "B.Tech CSE (AI & ML)",
+    role: "Full Stack Developer",
+
+    currentlyLearning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "System Design",
+        "Docker"
+    ],
+
+    interests: [
+        "Backend Development",
+        "Cloud Computing",
+        "Blockchain",
+        "Artificial Intelligence"
+    ],
+
+    currentlyBuilding: [
+        "MediChain",
+        "Healthcare Applications",
+        "Open Source Projects"
+    ],
+
+    motto: "Code. Learn. Build. Repeat."
+}
+```
+
+---
+
+> *"I don't just write code—I build solutions that make an impact."* 🚀
 ---
 
 # 💻 Tech Stack:
