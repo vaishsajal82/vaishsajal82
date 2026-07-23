@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![desk setup gif](https://github.com/user-attachments/assets/6b837973-197d-4f1d-b7cb-d2b50b634441)
 
 Hi there! 👋 I'm **Sajal Vaish**, a Full Stack Developer and B.Tech CSE (AI & ML) student passionate about building scalable web applications and solving real-world problems through technology.
 
@@ -52,9 +52,9 @@ A platform connecting skilled workers with employers through an easy-to-use digi
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-vaish-29a694381)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishsajal82)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vaishsajal82@gmail.com)
 
 ---
 
@@ -68,24 +68,10 @@ A platform connecting skilled workers with employers through an easy-to-use digi
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vaishsajal82&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 # 📈 Contribution Graph
 
 [![Sajal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishsajal82&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-![](https://komarev.com/ghpvc/?username=vaishsajal82&style=for-the-badge&color=blueviolet)
 
 ### ⭐ Thanks for visiting my profile!
